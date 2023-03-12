@@ -76,6 +76,4 @@ In summary, the experiment validates the effectiveness of t-SNE, UMAP, and ISOMA
 
 Thanks to [COMP9102-2022-CourseProject](https://github.com/lijichang/COMP9102-2022-CourseProject).
 
-This implementation is also submitted to my [GITHUB](https://github.com/lijichang/COMP8503-2023-Assignment1).
-
 
